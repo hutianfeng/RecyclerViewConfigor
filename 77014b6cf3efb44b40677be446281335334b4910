@@ -1,0 +1,18 @@
+configor/build.gradle
+  h_0335aa820af252 32
+app/build.gradle
+  h_0335aa820af252 33
+README.md
+  h_0335aa820af252 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0-codex",
+  "base_commit_sha": "77014b6cf3efb44b40677be446281335334b4910",
+  "prompts": {},
+  "humans": {
+    "h_0335aa820af252": {
+      "author": "hanson"
+    }
+  }
+}
